@@ -10,7 +10,7 @@
 
 - 👯 I’m looking for **Research Internships.**
 
-- 🌱 I’m currently learning **Agentic-AI,YOLO, DL,QML**
+- 🌱 I’m currently learning **Agentic-AI,YOLO, DL,QML and about life**
 
 - 📝 Find my Mind-Boggling articles on [https://medium.com/@shashanksinghbigbro](https://medium.com/@shashanksinghbigbro)
 
