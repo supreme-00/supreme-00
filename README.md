@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-00" alt="supreme-00" /></a> </p>
 
-- 🔭 I’m currently working on **NLP based system on Diwali dataset**
-
 - 👯 I’m looking for **Research Internships.**
 
 - 🌱 I’m currently learning **Agentic-AI,YOLO, DL,QML and about life**
